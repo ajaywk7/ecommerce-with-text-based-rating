@@ -39,13 +39,5 @@
   "main": "index.js",
   "devDependencies": {},
   "author": "Ajay Wilkins A",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ajaywk7/recommendation-system.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ajaywk7/recommendation-system/issues"
-  },
-  "homepage": "https://github.com/ajaywk7/recommendation-system#readme"
+  "license": "ISC"
 }
